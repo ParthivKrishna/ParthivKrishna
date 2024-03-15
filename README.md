@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jst call me
-- 😄 Pronouns: :)
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: i am new to GITHUB
 
 <!---
